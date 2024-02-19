@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Futura+Light&display=swap');
 @font-face {
     font-family: 'CustomFont';
-    src: url('/font/BrownSugar.otf') format('opentype');
+    src: url('BrownSugar.otf') format('opentype');
 }
 
 
@@ -97,7 +97,7 @@ body {
     text-align: center;
     justify-content: center;
     font-size: 50px;
-    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),url('img/homepage.jpg'); /* Replace with the actual URL or path to your image */
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),url('homepage.jpg'); /* Replace with the actual URL or path to your image */
     background-size: cover;
     background-position: center;
   }
@@ -155,28 +155,28 @@ body {
 }
 
 .button-with-image {
-    background-image: url('img/home.JPG'); /* Replace with the actual URL or path to your image */
+    background-image: url('home.JPG'); /* Replace with the actual URL or path to your image */
     background-size: cover;
     background-position: center;
     color: #fff; /* Set text color to white or a contrasting color */
 }
 
 .button-with-image1 {
-    background-image: url('img/homepagemobile.jpg'); /* Replace with the actual URL or path to your image */
+    background-image: url('homepagemobile.jpg'); /* Replace with the actual URL or path to your image */
     background-size: 130%;
     background-position: center 60%;
     color: #fff; /* Set text color to white or a contrasting color */
 }
 
 .button-with-image2 {
-    background-image: url('img/menu.jpg'); /* Replace with the actual URL or path to your image */
+    background-image: url('menu.jpg'); /* Replace with the actual URL or path to your image */
     background-size: cover;
     background-position: center;
     color: #fff; /* Set text color to white or a contrasting color */
 }
 
 .button-with-image3 {
-    background-image: url('img/houseblend.jpg'); /* Replace with the actual URL or path to your image */
+    background-image: url('houseblend.jpg'); /* Replace with the actual URL or path to your image */
     background-size: cover;
     background-position: center;
     color: #fff; /* Set text color to white or a contrasting color */
@@ -394,7 +394,7 @@ body {
 .popup-right-section {
     flex: 2;
     text-align: center;
-    background-image: url('img/beans.jpg');
+    background-image: url('beans.jpg');
     background-size: cover;
     background-position: center;
     height: 100%;
