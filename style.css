@@ -403,7 +403,7 @@ body {
 .popup-right-section1 {
     flex: 2;
     text-align: center;
-    background-image: url('img/beans.jpg');
+    background-image: url('beans.jpg');
     background-size: cover;
     background-position: center;
     height: 100%;
