@@ -534,7 +534,7 @@ body {
       }
     
     #about{
-        height: 160vh;
+        height: 1300px;
       }
     .button-container {
         grid-template-columns: 1fr; /* 1 column for smaller screens */
